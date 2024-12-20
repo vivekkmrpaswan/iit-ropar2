@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "videoUrl": "https://www.youtube.com/embed/b2VJmyarV3I?si=VuPpkduKrYRI1ipS",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "What are literals in Java?",
+      "options": [
+        "Variables that store data",
+        "Constants with fixed values",
+        "Operators used for calculations",
+        "Functions or methods in a class"
+      ],
+      "correctAnswer": "Constants with fixed values"
+    }
+  },
+  {
+    "id": 2,
+    "videoUrl": "https://www.youtube.com/embed/HRfmLqqvzUs?si=F7TZM7mfiHuHH9G3",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "How to get user input in Java?",
+      "options": [
+        "Using the `Scanner` class",
+        "Using the `InputReader` class",
+        "Using the `ConsoleReader` class",
+        "Using the `BufferedReader` class"
+      ],
+      "correctAnswer": "Using the `Scanner` class"
+    }
+  },
+  {
+    "id": 3,
+    "videoUrl": "https://www.youtube.com/embed/pnn2VTSr1Ko?si=LuETF4aRtEWtlixn",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "What are operators and expressions in Java?",
+      "options": [
+        "Operators perform operations, and expressions combine variables and values using operators",
+        "Operators are variables, and expressions are data types",
+        "Operators are functions, and expressions are method calls",
+        "Operators are classes, and expressions are objects"
+      ],
+      "correctAnswer": "Operators perform operations, and expressions combine variables and values using operators"
+    }
+  },
+  {
+    "id": 4,
+    "videoUrl": "https://www.youtube.com/embed/b2VJmyarV3I?si=VuPpkduKrYRI1ipS",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "What are literals in Java?",
+      "options": [
+        "Variables that store data",
+        "Constants with fixed values",
+        "Operators used for calculations",
+        "Functions or methods in a class"
+      ],
+      "correctAnswer": "Constants with fixed values"
+    }
+  },
+  {
+    "id": 5,
+    "videoUrl": "https://www.youtube.com/embed/HRfmLqqvzUs?si=F7TZM7mfiHuHH9G3",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "How to get user input in Java?",
+      "options": [
+        "Using the `Scanner` class",
+        "Using the `InputReader` class",
+        "Using the `ConsoleReader` class",
+        "Using the `BufferedReader` class"
+      ],
+      "correctAnswer": "Using the `Scanner` class"
+    }
+  },
+  {
+    "id": 6,
+    "videoUrl": "https://www.youtube.com/embed/pnn2VTSr1Ko?si=LuETF4aRtEWtlixn",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "What are operators and expressions in Java?",
+      "options": [
+        "Operators perform operations, and expressions combine variables and values using operators",
+        "Operators are variables, and expressions are data types",
+        "Operators are functions, and expressions are method calls",
+        "Operators are classes, and expressions are objects"
+      ],
+      "correctAnswer": "Operators perform operations, and expressions combine variables and values using operators"
+    }
+  },
+  {
+    "id": 7,
+    "videoUrl": "https://www.youtube.com/embed/b2VJmyarV3I?si=VuPpkduKrYRI1ipS",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "What are literals in Java?",
+      "options": [
+        "Variables that store data",
+        "Constants with fixed values",
+        "Operators used for calculations",
+        "Functions or methods in a class"
+      ],
+      "correctAnswer": "Constants with fixed values"
+    }
+  },
+  {
+    "id": 8,
+    "videoUrl": "https://www.youtube.com/embed/HRfmLqqvzUs?si=F7TZM7mfiHuHH9G3",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "How to get user input in Java?",
+      "options": [
+        "Using the `Scanner` class",
+        "Using the `InputReader` class",
+        "Using the `ConsoleReader` class",
+        "Using the `BufferedReader` class"
+      ],
+      "correctAnswer": "Using the `Scanner` class"
+    }
+  },
+  {
+    "id": 9,
+    "videoUrl": "https://www.youtube.com/embed/pnn2VTSr1Ko?si=LuETF4aRtEWtlixn",
+    "assessment": {
+      "type": "multiple-choice",
+      "question": "What are operators and expressions in Java?",
+      "options": [
+        "Operators perform operations, and expressions combine variables and values using operators",
+        "Operators are variables, and expressions are data types",
+        "Operators are functions, and expressions are method calls",
+        "Operators are classes, and expressions are objects"
+      ],
+      "correctAnswer": "Operators perform operations, and expressions combine variables and values using operators"
+    }
+  }  
+]
